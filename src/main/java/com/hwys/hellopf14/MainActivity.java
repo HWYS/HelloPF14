@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, et.getText(), Toast.LENGTH_LONG).show();
-
+                //This is updated in github and
 
             }
         });
